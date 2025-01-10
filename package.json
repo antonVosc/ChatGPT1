@@ -1,0 +1,8 @@
+{
+  "name": "ChatGPT1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/antonVosc/ChatGPT1.git",
+  "author": "antonVosc <anton.vosc@gmail.com>",
+  "license": "MIT"
+}
