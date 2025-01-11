@@ -1,8 +1,9 @@
 {
-  "name": "ChatGPT1",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/antonVosc/ChatGPT1.git",
-  "author": "antonVosc <anton.vosc@gmail.com>",
-  "license": "MIT"
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "openai": "^4.78.1"
+  }
 }

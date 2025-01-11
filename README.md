@@ -8,17 +8,39 @@ To run the project, run:
 git clone ttps://github.com/antonVosc/ChatGPT1/
 ```
 
-2. 
-```
-cd ChatGPT1/frontend/
-```
+2. Follow instructions given in backend/env.example file.
 
 3. 
+```
+cd ChatGPT1/
+```
+
+4. 
 ```
 npm install
 ```
 
-4. 
+5. 
+```
+cd backend/
+```
+
+6. 
+```
+npm install
+```
+
+7. 
+```
+cd ../frontend/
+```
+
+8. 
+```
+npm install
+```
+
+9. 
 ```
 npm run dev
 ```
